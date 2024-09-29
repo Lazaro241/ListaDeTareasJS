@@ -1,0 +1,15 @@
+{
+  "name": "listadetareasjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pisocero",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "listadetareasjs": "file:",
+    "prompt-sync": "^4.2.0"
+  }
+}
